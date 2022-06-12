@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Make a professional readMe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aditore",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krober45/Readme-Generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "readme"
+  ],
+  "bugs": {
+    "url": "https://github.com/krober45/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/krober45/Readme-Generator#readme"
+}
